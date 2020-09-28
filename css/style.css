@@ -13184,6 +13184,9 @@ textarea.form-control {
     display: block;
     width: 100%;
   }
+	.ftco-footer-widget {
+	float:right;
+	}
 }
 
 .block-9 .form-control {
