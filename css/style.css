@@ -12083,10 +12083,10 @@ h1, h2, h3, h4, h5,
 
 .ftco-about .img-about .img {
   position: relative;
-  width: 300px;
-  height: 300px;
+  width: 270px;
+  height: 270px;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 25%;
   margin: 0 auto;
   top: 130px;
 }
